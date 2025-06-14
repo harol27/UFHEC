@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Registro de Estudiantes";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #ADD8E6; /* Azul claro */
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background-color: white;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            width: 100%;
+            max-width: 500px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        input[type="text"], input[type="email"], select {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+        }
+
+        input[type="submit"] {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            input[type="submit"]:hover {
+                background-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Registro de Estudiantes</h1>
+        <form method="post">
+            <input type="text" name="nombre" placeholder="Nombre" class="form-control"  required /><br />
+            <input type="email" name="correo" placeholder="Correo Electrónico" class="form-control"  required /><br />
+            <select name="carrera" class="form-control" required>
+                <option value="">Seleccione carrera </option>
+                <option value="Ingeniería">Ingeniería</option>
+                <option value="Medicina">Medicina</option>
+            </select><br />
+            <input type="submit" value="Registrar" />
+        </form>
+    </div>
+</body>
+</html>

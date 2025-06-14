@@ -1,0 +1,125 @@
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.Development.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.staticwebassets.runtime.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.staticwebassets.endpoints.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.exe
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.deps.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.runtimeconfig.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.dll
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfoInputs.cache
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfo.cs
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cache
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cs
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\bundle\Registro_Estudiantes.styles.css
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\projectbundle\Registro_Estudiantes.bundle.scp.css
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.Registro_Estudiantes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.Registro_Estudiantes.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.build.Registro_Estudiantes.props
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registro_Estudiantes.props
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registro_Estudiantes.props
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.dll
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\refint\Registro_Estudiantes.dll
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.genruntimeconfig.cache
+C:\Proyecto UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\ref\Registro_Estudiantes.dll
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.staticwebassets.runtime.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.exe
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.deps.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.runtimeconfig.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.dll
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfo.cs
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cache
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cs
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.Registro_Estudiantes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.build.Registro_Estudiantes.props
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registro_Estudiantes.props
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registro_Estudiantes.props
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\bundle\Registro_Estudiantes.styles.css
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\projectbundle\Registro_Estudiantes.bundle.scp.css
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.dll
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\refint\Registro_Estudiantes.dll
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.genruntimeconfig.cache
+C:\Users\User\Pictures\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\ref\Registro_Estudiantes.dll
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.staticwebassets.runtime.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.exe
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.deps.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.runtimeconfig.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.dll
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfo.cs
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cache
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cs
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.Registro_Estudiantes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.build.Registro_Estudiantes.props
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registro_Estudiantes.props
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registro_Estudiantes.props
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\bundle\Registro_Estudiantes.styles.css
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\projectbundle\Registro_Estudiantes.bundle.scp.css
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.dll
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\refint\Registro_Estudiantes.dll
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.genruntimeconfig.cache
+C:\Users\User\Pictures\prueva\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\ref\Registro_Estudiantes.dll
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.staticwebassets.runtime.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.exe
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.deps.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.runtimeconfig.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.dll
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\bin\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfoInputs.cache
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.AssemblyInfo.cs
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cache
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.RazorAssemblyInfo.cs
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.sourcelink.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.Registro_Estudiantes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.build.Registro_Estudiantes.props
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Registro_Estudiantes.props
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Registro_Estudiantes.props
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\bundle\Registro_Estudiantes.styles.css
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\scopedcss\projectbundle\Registro_Estudiantes.bundle.scp.css
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.dll
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\refint\Registro_Estudiantes.dll
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.pdb
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\Registro_Estudiantes.genruntimeconfig.cache
+C:\Users\User\Pictures\REPOSITORIO DE GITHUB DESTOK\UFHEC\Registro_Estudiantes\Registro_Estudiantes\obj\Debug\net8.0\ref\Registro_Estudiantes.dll

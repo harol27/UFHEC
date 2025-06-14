@@ -1,0 +1,172 @@
+﻿@model Registro_Estudiantes.Models.EstudiantesViewModels
+
+@{
+    ViewData["Title"] = "Bienvenido";
+}
+<style>
+    body {
+        background-color: #ADD8E6; /* Azul claro */
+    }
+
+    .registro-container {
+        background-color: white;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        max-width: 700px;
+        margin: 40px auto;
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .form-check {
+        margin-top: 10px;
+    }
+
+    .text-danger {
+        font-size: 0.9em;
+    }
+
+    .enlace-lista {
+        display: block;
+        text-align: center;
+        margin-top: 20px;
+    }
+</style>
+
+<h1>@ViewData["Title"]</h1>
+
+<hr />
+<div class="registro-container">
+
+        <form asp-action="Registrar" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Matricula" class="control-label"></label>
+                <input asp-for="Matricula" class="form-control" />
+                <span asp-validation-for="Matricula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="carrera" class="control-label"></label>
+                <select asp-for="carrera" asp-items="@Model.opcionescarrera" class="form-control"></select>
+                <span asp-validation-for="carrera" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Correo" class="control-label"></label>
+                <input asp-for="Correo" class="form-control" />
+                <span asp-validation-for="Correo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefono" class="control-label"></label>
+                <input asp-for="Telefono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Edad" class="control-label"></label>
+                <input asp-for="Edad" type="date" class="form-control" />
+                <span asp-validation-for="Edad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Genero" class="control-label"></label><br />
+                <div class="form-check form-check-inline">
+                    <input type="radio" asp-for="Genero" value="Masculino" class="form-check-input" id="generoMasculino" />
+                    <label class="form-check-label" for="generoMasculino">Masculino</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input type="radio" asp-for="Genero" value="Femenino" class="form-check-input" id="generoFemenino" />
+                    <label class="form-check-label" for="generoFemenino">Femenino</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input type="radio" asp-for="Genero" value="Otro" class="form-check-input" id="generoOtro" />
+                    <label class="form-check-label" for="generoOtro">Otro</label>
+                </div>
+                <span asp-validation-for="Genero" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Turno" class="control-label"></label>
+                <select asp-for="Turno" asp-items="@Model.Opcionesturno" class="form-control"></select>
+                <span asp-validation-for="Turno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TipoIngreso" class="control-label"></label>
+                <select asp-for="TipoIngreso" asp-items="@Model.Opcionestipoingreso" class="form-control"></select>
+                <span asp-validation-for="TipoIngreso" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <input type="checkbox" asp-for="EstaBecado" class="form-check-input" id="estaBecadoCheckbox" />
+                <label class="form-check-label" asp-for="EstaBecado"></label>
+                <span asp-validation-for="EstaBecado" class="text-danger"></span>
+            </div>
+            <div class="form-group" id="porcentajeBecaGroup">
+                <label asp-for="PorcentajeBeca" class="control-label"></label>
+                <input asp-for="PorcentajeBeca" class="form-control" type="number" min="0" max="100" />
+                <span asp-validation-for="PorcentajeBeca" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <input type="checkbox" asp-for="TerminosYCondiciones" class="form-check-input" />
+                <label class="form-check-label" asp-for="TerminosYCondiciones"></label>
+                <span asp-validation-for="TerminosYCondiciones" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Registrar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="enlace-lista">
+    <a asp-action="Lista">Ver Lista de Estudiantes</a>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script>
+       
+        document.addEventListener('DOMContentLoaded', function() {
+            const estaBecadoCheckbox = document.getElementById('estaBecadoCheckbox');
+            const porcentajeBecaGroup = document.getElementById('porcentajeBecaGroup');
+            const porcentajeBecaInput = document.querySelector('#porcentajeBecaGroup input[type="number"]');
+
+            function togglePorcentajeBeca() {
+                if (estaBecadoCheckbox.checked) {
+                    porcentajeBecaGroup.style.display = 'block';
+                 .
+                } else {
+                    porcentajeBecaGroup.style.display = 'none';
+                    porcentajeBecaInput.value = ''; 
+                    if ($.validator && $.validator.unobtrusive) {
+                        $(porcentajeBecaInput).valid();
+                    }
+                }
+            }
+
+            togglePorcentajeBeca();
+
+             
+            estaBecadoCheckbox.addEventListener('change', togglePorcentajeBeca);
+        });
+    </script>
+}
